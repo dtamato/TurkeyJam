@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="PsychicEnergy" size="512.000000 735.878357" />
-    <ImageTarget name="GrassEnergy" size="512.000000 713.637085" />
-  </Tracking>
-</QCARConfig>
